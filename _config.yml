@@ -23,7 +23,7 @@ repository               : "zachlewis99/zachlewis99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : images/IMG_3692.jpeg
+  avatar           : "IMG_3692.jpeg"
   name             : "Zach Lewis"
   pronouns         : "he/him"  
   bio              : "Graduate student in astronomy at UW-Madison"
