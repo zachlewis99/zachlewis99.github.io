@@ -1,5 +1,3 @@
-<img width="3000" height="2250" alt="IMG_1830" src="https://github.com/user-attachments/assets/bc10c130-36e1-4edb-abb5-37bc18881444" />
-
 ---
 layout: archive
 title: "Research"
