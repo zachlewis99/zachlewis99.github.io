@@ -20,7 +20,7 @@ ACORNS has partnered with community centers in Dane County, particularly the [Ba
 Graduate students in astronomy, biology, chemistry, and physics visit these community centers to lead STEM activities such as modeling lunar craters with cocoa powder and Milk Duds, extracting DNA from strawberries, making homemade ice cream, and competing in a paper airplane contest. 
 This also provides valuable experience for graduate students to communicate science at a non-expertise level, interact with graduate students from different STEM departments, and build teaching and outreach skills necessary in today's academic environment. 
 
-ACORNS approach to outreach allows for an immersive STEM experience, highlighting both that science can be fun, accessible, and messy, but also that anyone is capable of doing it, regardless of expertise. Science is a state of mind, defined by curiosity&mdash;and every person has plenty of that.
+ACORNS' approach to outreach allows for an immersive STEM experience, highlighting both that science can be fun, accessible, and messy, but also that anyone is capable of doing it, regardless of expertise. Science is a state of mind, defined by curiosity&mdash;and every person has plenty of that.
 
 This project is currently supported by a Wisconsin Space Grant and the National Science Foundation.
 
