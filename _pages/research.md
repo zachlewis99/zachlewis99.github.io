@@ -23,8 +23,17 @@ This also provides valuable experience for graduate students to communicate scie
 ACORNS approach to outreach allows for an immersive STEM experience, highlighting both that science can be fun, accessible, and messy, but also that anyone is capable of doing it, regardless of expertise. Science is a state of mind, defined by curiosity&mdash;and every person has plenty of that.
 
 This project is currently supported by a Wisconsin Space Grant and the National Science Foundation.
-<img width="500"  alt="IMG_1830" src="https://github.com/user-attachments/assets/d043fcee-4b3d-446d-98aa-06c59074f0ff" />
-<img width="500"  alt="image3" src="https://github.com/user-attachments/assets/a0e1da2f-64fd-450b-843e-1571f5ebc58a" />
-<img width="500"  alt="IMG_2066" src="https://github.com/user-attachments/assets/fa623c70-c293-4688-ae71-3c2c85d8e3f1" />
-<img width="500"  alt="IMG_3702" src="https://github.com/user-attachments/assets/e00ce064-98d6-483f-88a2-c59e9905985a" />
+
+
+<img width="500"  alt="IMG_0711" src="https://github.com/user-attachments/assets/b674cd58-dcbe-4d7a-b715-7a9e51798dbc" />
+<img width="500"  alt="IMG_2066" src="https://github.com/user-attachments/assets/a028c4b4-8427-4b4a-b05a-e40c07671a93" />
+<img width="500"  alt="IMG_3702" src="https://github.com/user-attachments/assets/ba29edd3-3bd3-4f79-b1f3-990a3b8cd6b4" />
+<img width="500"   alt="IMG_4019" src="https://github.com/user-attachments/assets/1c2b2652-2ce0-4ef2-b549-9ae7b831b5e9" />
+<img width="500"   alt="IMG_4026" src="https://github.com/user-attachments/assets/ddc2effb-7d6e-4ee1-a5a0-fca72937ae9a" />
+<img width="500"   alt="IMG_4071" src="https://github.com/user-attachments/assets/3cb8e030-0435-4f89-8f56-ec3274c3a665" />
+<img width="500"  alt="IMG_6303" src="https://github.com/user-attachments/assets/d6f17a5b-582a-49ba-b86e-d834e436fdbc" />
+<img width="500"  alt="IMG_6321" src="https://github.com/user-attachments/assets/2ca42321-28b7-4269-9732-39da1e2aa423" />
+<img width="500"  alt="IMG_6356" src="https://github.com/user-attachments/assets/9cb0b1ad-1955-4c20-abe9-f9784c51f00b" />
+<img width="500"  alt="IMG_6409" src="https://github.com/user-attachments/assets/ac00c362-70cd-40b1-abda-604ecc2db1ea" />
+
 
