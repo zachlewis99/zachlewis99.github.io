@@ -26,16 +26,16 @@ This project is currently supported by a Wisconsin Space Grant and the National 
 
 <img width="1000" alt="IMG_3692" src="https://github.com/user-attachments/assets/51c8c7fa-4db8-465b-a0e7-ceb651471ca9" />
 
-<img width="1880" height="1410" alt="IMG_0711" src="https://github.com/user-attachments/assets/129c1dcc-3649-4b7d-b7e7-0661a78d4145" />
-<img width="4032" height="3024" alt="IMG_2066" src="https://github.com/user-attachments/assets/2133f48d-6147-43af-8cc5-bc3e4390c193" />
-<img width="4032" height="3024" alt="IMG_3702" src="https://github.com/user-attachments/assets/a35917e2-aacb-413f-81f7-39b7289230b2" />
-<img width="836" height="627" alt="IMG_4019" src="https://github.com/user-attachments/assets/96c1f29b-9352-4f58-af78-da1d96ed131c" />
-<img width="836" height="627" alt="IMG_4026" src="https://github.com/user-attachments/assets/e80fa954-4801-4c56-b310-0959b12553e4" />
-<img width="836" height="627" alt="IMG_4071" src="https://github.com/user-attachments/assets/60f2cc36-c141-4e28-992a-9b30df96eee1" />
-<img width="2116" height="1410" alt="IMG_6303" src="https://github.com/user-attachments/assets/b28693d0-f97e-4a50-bfb7-e2cdc88413df" />
-<img width="2116" height="1410" alt="IMG_6321" src="https://github.com/user-attachments/assets/82107b5e-2a83-45e6-8310-0ab3b0584874" />
-<img width="2116" height="1410" alt="IMG_6356" src="https://github.com/user-attachments/assets/f36c7ca7-941a-402e-9f4d-38e9dec2345d" />
-<img width="2116" height="1410" alt="IMG_6409" src="https://github.com/user-attachments/assets/6e6b27f0-1d03-441d-81a6-f9478f9ed90c" />
+<img width="500" alt="IMG_0711" src="https://github.com/user-attachments/assets/129c1dcc-3649-4b7d-b7e7-0661a78d4145" />
+<img width="500" alt="IMG_2066" src="https://github.com/user-attachments/assets/2133f48d-6147-43af-8cc5-bc3e4390c193" />
+<img width="500" alt="IMG_3702" src="https://github.com/user-attachments/assets/a35917e2-aacb-413f-81f7-39b7289230b2" />
+<img width="500"  alt="IMG_4019" src="https://github.com/user-attachments/assets/96c1f29b-9352-4f58-af78-da1d96ed131c" />
+<img width="500"  alt="IMG_4026" src="https://github.com/user-attachments/assets/e80fa954-4801-4c56-b310-0959b12553e4" />
+<img width="500"  alt="IMG_4071" src="https://github.com/user-attachments/assets/60f2cc36-c141-4e28-992a-9b30df96eee1" />
+<img width="500" alt="IMG_6303" src="https://github.com/user-attachments/assets/b28693d0-f97e-4a50-bfb7-e2cdc88413df" />
+<img width="500" alt="IMG_6321" src="https://github.com/user-attachments/assets/82107b5e-2a83-45e6-8310-0ab3b0584874" />
+<img width="500" alt="IMG_6356" src="https://github.com/user-attachments/assets/f36c7ca7-941a-402e-9f4d-38e9dec2345d" />
+<img width="500" alt="IMG_6409" src="https://github.com/user-attachments/assets/6e6b27f0-1d03-441d-81a6-f9478f9ed90c" />
 
 Other Outreach
 ==============
