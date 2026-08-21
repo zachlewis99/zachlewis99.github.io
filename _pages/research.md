@@ -24,7 +24,7 @@ ACORNS approach to outreach allows for an immersive STEM experience, highlightin
 
 This project is currently supported by a Wisconsin Space Grant and the National Science Foundation.
 
-<img width="320"  alt="image3" src="https://github.com/user-attachments/assets/a0e1da2f-64fd-450b-843e-1571f5ebc58a" />
-<img width="4032"  alt="IMG_2066" src="https://github.com/user-attachments/assets/fa623c70-c293-4688-ae71-3c2c85d8e3f1" />
-<img width="4032"  alt="IMG_3702" src="https://github.com/user-attachments/assets/e00ce064-98d6-483f-88a2-c59e9905985a" />
+<img width="100"  alt="image3" src="https://github.com/user-attachments/assets/a0e1da2f-64fd-450b-843e-1571f5ebc58a" />
+<img width="100"  alt="IMG_2066" src="https://github.com/user-attachments/assets/fa623c70-c293-4688-ae71-3c2c85d8e3f1" />
+<img width="100"  alt="IMG_3702" src="https://github.com/user-attachments/assets/e00ce064-98d6-483f-88a2-c59e9905985a" />
 
