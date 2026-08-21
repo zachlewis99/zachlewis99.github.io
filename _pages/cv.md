@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Outreach"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
