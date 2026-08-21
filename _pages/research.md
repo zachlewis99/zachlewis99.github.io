@@ -16,3 +16,5 @@ I'm interested in the evolution of the mass-metallicity relation (MZR) through a
 
 The best visual representation of the current leg of this work, which is testing the process on a mock Lyman-break color-color selected survey, is seen in the poster below, presented at the 2026 Wisconsin Space Conference:
 
+[WSGC_Poster.pdf](https://github.com/user-attachments/files/31320242/WSGC_Poster.pdf)
+
