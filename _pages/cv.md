@@ -1,64 +1,22 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Outreach"
+permalink: /outreach/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
+ACORNS
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+ACORNS (Activities for Community OutReach iN STEM) is an outreach program that works to build meaningful relationships between UW-Madison STEM departments and community centers in Dane County, Wisconsin.
+The program was borne of two ideas: first, that feelings of belonging in STEM are the number one indicator of retention in STEM fields. The ability of students to see themselves in STEM spaces is crucial to building this sense of belonging.
+Second, STEM learning should center student-driven exploration of concepts and dialogues rather than lectures. ACORNS combines these aspects by inviting students to *do* the science by participating in hands-on activities.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+ACORNS has partnered with community centers in Dane County, particularly the [Bayview Foundation](https://bayviewfoundation.org/) and [Kennedy Heights Community Center](https://www.khcommunitycenter.org/). 
+Graduate students in astronomy, biology, chemistry, and physics visit these community centers to lead STEM activities such as modeling lunar craters with cocoa powder and Milk Duds, extracting DNA from strawberries, making homemade ice cream, and competing in a paper airplane contest. 
+This also provides valuable experience for graduate students to communicate science at a non-expertise level, interact with graduate students from different STEM departments, and build teaching and outreach skills necessary in today's academic environment. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ACORNS approach to outreach allows for an immersive STEM experience, highlighting both that science can be fun, accessible, and messy, but also that anyone is capable of doing it, regardless of expertise. Science is a state of mind, defined by curiosity&mdash;and every person has plenty of that.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+This project is currently supported by a Wisconsin Space Grant and the National Science Foundation.
