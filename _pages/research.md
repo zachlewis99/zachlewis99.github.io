@@ -1,3 +1,5 @@
+<img width="3000" height="2250" alt="IMG_1830" src="https://github.com/user-attachments/assets/bc10c130-36e1-4edb-abb5-37bc18881444" />
+
 ---
 layout: archive
 title: "Research"
@@ -23,7 +25,7 @@ This also provides valuable experience for graduate students to communicate scie
 ACORNS approach to outreach allows for an immersive STEM experience, highlighting both that science can be fun, accessible, and messy, but also that anyone is capable of doing it, regardless of expertise. Science is a state of mind, defined by curiosity&mdash;and every person has plenty of that.
 
 This project is currently supported by a Wisconsin Space Grant and the National Science Foundation.
-
+<img width="500"  alt="IMG_1830" src="https://github.com/user-attachments/assets/d043fcee-4b3d-446d-98aa-06c59074f0ff" />
 <img width="500"  alt="image3" src="https://github.com/user-attachments/assets/a0e1da2f-64fd-450b-843e-1571f5ebc58a" />
 <img width="500"  alt="IMG_2066" src="https://github.com/user-attachments/assets/fa623c70-c293-4688-ae71-3c2c85d8e3f1" />
 <img width="500"  alt="IMG_3702" src="https://github.com/user-attachments/assets/e00ce064-98d6-483f-88a2-c59e9905985a" />
