@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-ACORNS
+ACORNS blah
 ======
 ACORNS (Activities for Community OutReach iN STEM) is an outreach program that works to build meaningful relationships between UW-Madison STEM departments and community centers in Dane County, Wisconsin.
 The program was borne of two ideas: first, that feelings of belonging in STEM are the number one indicator of retention in STEM fields. The ability of students to see themselves in STEM spaces is crucial to building this sense of belonging.
