@@ -9,6 +9,9 @@ author_profile: true
 For non-astronomers
 ===================
 To put it broadly, I research galaxies, which are comprised (among many other things) stars and gas. Those stars fuse light elements into heavy elements in their cores, then sometimes explode and scatter those heavy elements throughout and outside the galaxy. Tracing those heavy elements can tell us about the galaxy's history as well as many important characteristics. Specifically, I'm looking at what information we lose when we only observe certain kinds of galaxies instead of all of them, which is impossible.
+
+<img width="760" height="610" alt="figure1" src="https://github.com/user-attachments/assets/7344dae9-b9ab-4490-87b3-819a9a92c90a" />
+
 		
 For astronomers
 ===============
@@ -16,5 +19,4 @@ I'm interested in the evolution of the mass-metallicity relation (MZR) through a
 
 The best visual representation of the current leg of this work, which is testing the process on a mock Lyman-break color-color selected survey, is seen in the poster below, presented at the 2026 Wisconsin Space Conference:
 
-[WSGC_Poster.pdf](https://github.com/user-attachments/files/31320242/WSGC_Poster.pdf)
-
+<object data="../assets/WSGC_Poster.pdf" width="1000" type='application/pdf'></object>
