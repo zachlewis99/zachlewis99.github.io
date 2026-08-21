@@ -39,3 +39,6 @@ This project is currently supported by a Wisconsin Space Grant and the National 
 <img width="500"  alt="IMG_6409" src="https://github.com/user-attachments/assets/ac00c362-70cd-40b1-abda-604ecc2db1ea" />
 
 
+Other Outreach
+==============
+Aside from ACORNS, I frequently host field trip groups and community centers at the UW-Madison astronomy department planetarium and assist in [Washburn Observatory](https://www.astro.wisc.edu/outreach/washburn/)'s public observing nights, and have time and again been known to give an [Astronomy on Tap](https://astronomyontap.org/locations/madison-wi/) talk or speak about astronomy in Wisconsin's state parks through [Universe in the Park](https://www.astro.wisc.edu/outreach/universe-in-the-park/).
