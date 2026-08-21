@@ -13,5 +13,5 @@ I was born in Erie, Pennsylvania, and moved down to Pittsburgh for my undergrad 
 
 In my free time, if I can't be found in the kitchen (whether cooking, baking, or sipping a *real* Old Fashioned), nature, (whether hiking or picnicking), or reading (talk to me about N. K. Jemisin, Nnedi Okorafor, or R.F. Kuang), I'm probably fending off Constance (Kitty) and Penelope (Tiny): 
 
-<img width="500" alt="IMG_9655" src="https://github.com/user-attachments/assets/68492c0b-060d-4465-9dad-07bbc0eb34c5" />
-<img width="500" alt="IMG_6496" src="https://github.com/user-attachments/assets/642681db-9aa4-4964-a337-73e94a511cf5" />
+<img width="400" alt="IMG_9655" src="https://github.com/user-attachments/assets/68492c0b-060d-4465-9dad-07bbc0eb34c5" />
+<img width="400" alt="IMG_6496" src="https://github.com/user-attachments/assets/642681db-9aa4-4964-a337-73e94a511cf5" />
