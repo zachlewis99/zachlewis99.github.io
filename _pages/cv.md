@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Outreach"
-permalink: /outreach/
+permalink: /cv/
 author_profile: true
 ---
 
